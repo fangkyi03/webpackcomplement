@@ -10,7 +10,7 @@
 
 安装
 ---
-> npm i --save webpackcomplement
+> npm i --save-dev webpackcomplement
 
 演示视频:
 ---
