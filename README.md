@@ -9,4 +9,4 @@
 > npm i --save webpackcomplement
 
 演示视频:
-[!video]:
+![image](https://github.com/fangkyi03/webpackcomplement/blob/master/2018-05-12%2014_29_05.gif)
