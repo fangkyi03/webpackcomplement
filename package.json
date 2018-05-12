@@ -1,0 +1,27 @@
+{
+  "name": "webpackcomplement",
+  "version": "1.0.0",
+  "description": "史上最全webpack roadhog 自动补全工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fangkyi03/webpackcomplement.git"
+  },
+  "keywords": [
+    "webpack",
+    "roadhog",
+    "auto"
+  ],
+  "author": "fangkyi03",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fangkyi03/webpackcomplement/issues"
+  },
+  "homepage": "https://github.com/fangkyi03/webpackcomplement#readme",
+  "dependencies": {
+    "@types/webpack": "^4.1.6"
+  }
+}
