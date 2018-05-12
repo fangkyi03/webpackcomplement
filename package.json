@@ -21,7 +21,4 @@
     "url": "https://github.com/fangkyi03/webpackcomplement/issues"
   },
   "homepage": "https://github.com/fangkyi03/webpackcomplement#readme",
-  "dependencies": {
-    "@types/webpack": "^4.1.6"
-  }
 }
