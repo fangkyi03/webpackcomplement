@@ -1,6 +1,6 @@
 {
   "name": "webpackcomplement",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "史上最全webpack roadhog 自动补全工具",
   "main": "index.js",
   "scripts": {
