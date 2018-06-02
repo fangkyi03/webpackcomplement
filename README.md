@@ -17,4 +17,4 @@
 演示视频:
 ---
 
-![image](https://github.com/fangkyi03/webpackcomplement/blob/master/QQ20180512-144213-HD.gif)
+![image](https://github.com/fangkyi03/webpackcomplement/blob/master/QQ20180602-131454-HD.gif)
